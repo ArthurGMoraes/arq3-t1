@@ -1,8 +1,8 @@
 LRU:
-    hit rate: 0.175
+    hit rate: 0.6125
 
 FIFO: 
-    hit rate: 0.175
+    hit rate: 0.6125
 
 mais infos nos logs
 sem diferença por causa do trace, o Cota falou sobre isso na sala.
