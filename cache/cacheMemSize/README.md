@@ -17,7 +17,7 @@ x=256:
     hit rate: 0.375
 
 mais infos nos logs
-não sei se os resultados estão corretos, hit rate muito baixo -> pode ser o trace
+não sei se os resultados estão corretos, hit rate muito baixo -> pode ser o trace -> acho que é porque o line size estava muito pesqueno refazer teste com 8 ou 16
 
 
 
